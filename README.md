@@ -66,3 +66,7 @@ Los jueces evaluarán tu trabajo con base en los siguientes aspectos:
 
 ¡También estaremos resolviendo los retos en vivo por Twitch!
 Síguenos para aprender en tiempo real y compartir el proceso con la comunidad. 💻🚀
+<div align="center">
+<a href="https://www.twitch.tv/binarybrains" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de Binary Brains" height="84px" width="112px" />
+  </a>
