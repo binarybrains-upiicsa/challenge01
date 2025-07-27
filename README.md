@@ -62,6 +62,11 @@ Los jueces evaluarán tu trabajo con base en los siguientes aspectos:
 
 # Retos 
 
+| Reto    | Requerimientos | Dificultad | Tipo |
+| -------- | -------| -------- | ------- | 
+| Github user activity  | <a href="https://roadmap.sh/projects/github-user-activity">Requerimientos</a>    | Fácil 😴 | Backend |
+| Expense Tracker  | <a href="https://roadmap.sh/projects/expense-tracker">Requerimientos</a>    | Medio 🤯| Fullstack | 
+| Personal blog  | <a href="https://roadmap.sh/projects/personal-blog">Requerimientos</a>    | Díficil 😈  | Fullstack |
 # Siguenos en Twitch! 
 
 ¡También estaremos resolviendo los retos en vivo por Twitch!
