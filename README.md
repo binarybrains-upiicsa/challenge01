@@ -67,6 +67,15 @@ Los jueces evaluarán tu trabajo con base en los siguientes aspectos:
 | Github user activity  | <a href="https://roadmap.sh/projects/github-user-activity">Requerimientos</a>    | Fácil 😴 | Backend |
 | Expense Tracker  | <a href="https://roadmap.sh/projects/expense-tracker">Requerimientos</a>    | Medio 🤯| Fullstack | 
 | Personal blog  | <a href="https://roadmap.sh/projects/personal-blog">Requerimientos</a>    | Díficil 😈  | Fullstack |
+
+# Soluciones
+
+| Github User Activity |
+| Usuario | Link Repositorio | 
+| -------- | -------| 
+| Cris | https://github.com/Cdevdiel/github-user-activity.git | 
+
+
 # Siguenos en Twitch! 
 
 ¡También estaremos resolviendo los retos en vivo por Twitch!
