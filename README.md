@@ -70,7 +70,7 @@ Los jueces evaluarán tu trabajo con base en los siguientes aspectos:
 
 # Soluciones
 
-| Github User Activity |
+Github User Activity 
 | Usuario | Link Repositorio | 
 | -------- | -------| 
 | Cris | https://github.com/Cdevdiel/github-user-activity.git | 
