@@ -75,3 +75,9 @@ Síguenos para aprender en tiempo real y compartir el proceso con la comunidad. 
 <a href="https://www.twitch.tv/binarybrains" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de Binary Brains" height="84px" width="112px" />
   </a>
+
+
+# Soluciones de la comunidad: 
+| username    | Github user activity | Expense tracker | Personal blog |
+| -------- | -------| -------- | ------- |
+| | | | 
