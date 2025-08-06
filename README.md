@@ -82,4 +82,5 @@ Síguenos para aprender en tiempo real y compartir el proceso con la comunidad. 
 | username    | Github user activity | Expense tracker | Personal blog |
 | -------- | -------| -------- | ------- |
 |CrisScript |https://github.com/CrisScript/github-user-activity | | 
+|CrisScript |https://github.com/CrisScript/Expense-Tracker| | 
 </div>
